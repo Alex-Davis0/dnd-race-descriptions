@@ -1,0 +1,28 @@
+.background {
+  background-image: url("https://www.wargamer.com/wp-content/uploads/2021/07/dnd-dragons-900x507.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.container {
+  background-color: #d93534;
+  height: 3rem;
+}
+
+.nav {
+  font-family: Spectral, serif;
+  font-size: 16px;
+  color: #fbfbf6;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  margin-top: 0.5rem;
+}
+
+.brand {
+  font-size: 20px;
+}
+
+.a {
+  text-decoration: none;
+  color: #fbfbf6;
+}
