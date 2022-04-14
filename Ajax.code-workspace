@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\rc1121-code-solutions"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "repos"
+	}
+}
