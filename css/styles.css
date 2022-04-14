@@ -4,31 +4,13 @@
   background-attachment: fixed;
 }
 
-.nav-background {
-  background-color: #630606;
-  height: 3rem;
-}
-
-.nav {
+.title {
+  text-align: center;
   font-family: Spectral, serif;
-  font-size: 16px;
-  color: #000;
-  padding-left: 1rem;
-  padding-right: 1rem;
-  margin-top: 0.5rem;
-}
-
-.brand {
-  font-size: 20px;
-}
-
-.a {
-  text-decoration: none;
-  color: #000;
+  font-size: 5rem;
 }
 
 .text {
-  text-decoration: none;
   color: #000;
   font-family: Rubik, sans-serif;
   font-size: x-large;
@@ -41,10 +23,6 @@
   font-family: Spectral, serif;
   font-size: 2.5rem;
   margin-bottom: 0;
-}
-
-.hidden {
-  display: none;
 }
 
 @media only screen  and (max-width: 700px) {
