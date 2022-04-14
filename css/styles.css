@@ -4,15 +4,15 @@
   background-attachment: fixed;
 }
 
-.container {
-  background-color: #d93534;
+.nav-background {
+  background-color: #630606;
   height: 3rem;
 }
 
 .nav {
   font-family: Spectral, serif;
   font-size: 16px;
-  color: #fbfbf6;
+  color: #000;
   padding-left: 1rem;
   padding-right: 1rem;
   margin-top: 0.5rem;
@@ -24,5 +24,31 @@
 
 .a {
   text-decoration: none;
-  color: #fbfbf6;
+  color: #000;
+}
+
+.text {
+  text-decoration: none;
+  color: #000;
+  font-family: Rubik, sans-serif;
+  font-size: x-large;
+  margin-top: 0;
+}
+
+.font {
+  text-decoration: none;
+  color: #070600;
+  font-family: Spectral, serif;
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+
+.hidden {
+  display: none;
+}
+
+@media only screen  and (max-width: 700px) {
+  .container {
+    margin-left: 5px;
+  }
 }
