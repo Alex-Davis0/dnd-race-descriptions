@@ -22,4 +22,5 @@ Try the application live at [https://alex-davis0.github.io/ajax-project/](https:
 
 ## Preview
 
-![SGT React](assets/sgt-react.gif)
+![Ajax GIF](https://user-images.githubusercontent.com/93169087/165116438-a6c41091-683d-4486-bda3-b4406b07256f.gif)
+
