@@ -1,4 +1,4 @@
-# Dungeon and Dragon race 
+# Race Descriptions of Dungeon and Dragon 
 
 A dynamic HTML, CSS, and JavaScript solo project.
 A full stack JavaScript application for DnD players who want to see the descriptions of all the standard races in one place.
