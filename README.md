@@ -9,6 +9,7 @@ A full stack JavaScript application for DnD players who want to see the descript
 - CSS3
 - JavaScript
 - AJAX
+- API used https://open5e.com/
 
 ## Live Demo
 
