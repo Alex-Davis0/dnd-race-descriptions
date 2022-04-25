@@ -13,7 +13,7 @@ A full stack JavaScript application for DnD players who want to see the descript
 
 ## Live Demo
 
-Try the application live at [https://alex-davis0.github.io/ajax-project/](https://alex-davis0.github.io/ajax-project/)
+Try the application live at [https://alex-davis0.github.io/ajax-project/](https://alex-davis0.github.io/dnd-race-descriptions/)
 
 ## Features
 
